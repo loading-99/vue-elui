@@ -2,3 +2,15 @@
 [2021-10-14T17:43:48.189] [DEBUG] cheese - admin
 [2021-10-14T17:43:48.211] [DEBUG] cheese - null
 [2021-10-14T17:43:48.212] [DEBUG] cheese - null
+[2021-10-22T14:55:15.781] [DEBUG] cheese - login => username:admin,password:123456
+[2021-10-22T14:55:15.785] [DEBUG] cheese - admin
+[2021-10-22T14:55:15.820] [DEBUG] cheese - null
+[2021-10-22T14:55:15.821] [DEBUG] cheese - null
+[2021-10-22T15:09:38.642] [DEBUG] cheese - login => username:admin,password:123456
+[2021-10-22T15:09:38.642] [DEBUG] cheese - admin
+[2021-10-22T15:09:38.648] [DEBUG] cheese - null
+[2021-10-22T15:09:38.650] [DEBUG] cheese - null
+[2021-10-22T16:08:45.985] [DEBUG] cheese - login => username:admin,password:123456
+[2021-10-22T16:08:45.985] [DEBUG] cheese - admin
+[2021-10-22T16:08:45.990] [DEBUG] cheese - null
+[2021-10-22T16:08:45.991] [DEBUG] cheese - null
