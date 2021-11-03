@@ -1,8 +1,8 @@
 <template>
- <div class="app">
-     <!-- 路由占位符 -->
-     <router-view></router-view>
- </div>
+  <div class="app">
+    <!-- 路由占位符 -->
+    <router-view></router-view>
+  </div>
 </template>
 
 <script>
@@ -12,5 +12,7 @@ export default {
 </script>
 
 <style>
-
+.app {
+  height: 100%;
+}
 </style>
